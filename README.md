@@ -37,21 +37,6 @@ A composite index measuring the stability of boundaries across layers.
 STATE_MACHINE
 A governance-oriented interpretation layer describing system condition and transitions.
 
-📁 Repository Structure
-/appendices/
-  ├─ Appendix-F/        (Technical & mathematical annexes)
-  ├─ Appendix-F.9/      (Boundary Stability Index)
-  └─ Appendix-G/        (National implementation blueprint)
-
- /spreadsheets/
-  └─ Boundary OS × BSI × KPI_v0.4.xlsx
-
- /papers/
-  ├─ Dynamic-Ethical-Boundary-Lines.md
-  ├─ boundary-os.md
-  ├─ bsi.md
-  └─ techno-animist-ethics.md
-
 📊 Spreadsheet Overview (v0.4)
 
 The spreadsheet contains the following sheet categories:
